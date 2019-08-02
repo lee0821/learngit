@@ -1,3 +1,5 @@
 第一次创建
 第一次修改  使用git reset HEAD^ 回退倒上一版本	
 第二次修改  使用git checkout --git.txt 回退到第一个版本
+
+添加了我的名字：lee·
